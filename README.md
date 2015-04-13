@@ -1,4 +1,4 @@
-# docker-busybox-java
+# busybox-java
 
 A minimal docker image containing designed to run java applications.
 
