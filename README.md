@@ -1,6 +1,6 @@
 # busybox-java
 
-A minimal docker image container designed to run java applications.
+A minimal docker image designed to run java applications.
 
 ### Tags
 
